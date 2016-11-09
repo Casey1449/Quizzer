@@ -1,0 +1,38 @@
+.app-title {
+  text-align: center;
+  padding: 40px;
+  width: 60%;
+  margin: auto;
+}
+
+.questions-wrapper {
+  width: 60%;
+  margin: auto;
+}
+
+.question-box {
+  margin: 20px;
+}
+
+.question-title {
+  background-color: teal;
+  color: white;
+  padding: 15px;
+}
+
+.question-title h3 {
+  margin: 0;
+}
+
+.question-answer-choices {
+  background-color: skyblue;
+  padding: 15px;
+}
+
+.single-answer-choice {
+  margin: 10px;
+}
+
+.radio-buttons {
+  margin-right: 10px;
+}
